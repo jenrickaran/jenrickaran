@@ -4,13 +4,11 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<h1 data-importer="text" align="center">Jenrick Aran</h1>
 
 ###
 
-<h1 data-importer="text" align="center">Jenrick Aran</h1>
+<img data-importer="image" align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
